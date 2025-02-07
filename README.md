@@ -47,4 +47,4 @@ _Objet section_
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors.
 
 
-Sincerely, [Khalil B.](https://www.linkedin.com/in/khalilb/),
+Sincerely, [Khalil B.](https://www.linkedin.com/in/khalilb/)
