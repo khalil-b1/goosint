@@ -30,8 +30,6 @@ You can add it to the top of your list, right next to the title.
 [![powered-by-badge.svg](media/powered-by-badge.svg)]([#](https://goosint.com))
 ```
 
-Add a badge to the top of your list, right next to the title.
-
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
 - Osintnewsletter.con – [With 130+ in the collection, you’re bound to find something useful](https://osintnewsletter.com/p/38).
