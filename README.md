@@ -21,6 +21,9 @@ If you want to add other tools or have any suggestions to improve this project, 
 
 PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
 
+## [↑](#goosint-lists) Badges
+[![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#goosint-lists) and 
+
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
 - Osintnewsletter.con – [With 130+ in the collection, you’re bound to find something useful](https://osintnewsletter.com/p/38).
