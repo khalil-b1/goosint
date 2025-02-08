@@ -3,8 +3,7 @@ S'inspirer de https://github.com/sindresorhus/awesome?tab=readme-ov-file pour re
 Mettre logo de goosint avec lien du reot original ![Titre de l'image si elle ne s'affiche pas.](lienverslereport/base-octocat.svg) source https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
 Liste emoji à mettre dans about https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
-# Goosint
-Soon
+![logo-cut.jpg](#media/logo.jpg)
 
 ## Table of Contents
 - [Titre section](#section)
