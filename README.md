@@ -24,11 +24,11 @@ _You are allowed to use the badges on lists not included here and also on privat
 
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#) & [![powered-by-badge.svg](media/powered-by-badge.svg)](#)
 
-You can add it to the top of your list, right next to the title. Badges are available in both .svg and .png format.
 ```
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](https://goosint.com)
 [![powered-by-badge.svg](media/powered-by-badge.svg)]([#](https://goosint.com))
 ```
+You can add it to the top of your list, right next to the title. Badges are available in both .svg and .png format.
 
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
