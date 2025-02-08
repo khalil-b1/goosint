@@ -1,10 +1,5 @@
-TO-DO
-goosint-france-ma-securite 
-goosint-cybersecurity-learning
-goosint-cyber-advisories
-S'inspirer de https://github.com/sindresorhus/awesome?tab=readme-ov-file pour rediger la racine a partir de ces donnees de https://goosint.com/about 
-
-IDEES
+ IDEES
+S'inspirer de https://github.com/sindresorhus/awesome?tab=readme-ov-file pour rediger la racine a partir de ces donnees de https://goosint.com/about
 Mettre logo de goosint avec lien du reot original ![Titre de l'image si elle ne s'affiche pas.](lienverslereport/base-octocat.svg) source https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
 Liste emoji à mettre dans about https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
