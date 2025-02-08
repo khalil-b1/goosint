@@ -23,6 +23,7 @@ PS. I still need to work on a proper contribution process in github. Please give
 
 ## [↑](#goosint-lists) Badges
 _Badges are available in both .svg and .png format._ \
+
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#goosint-lists) & [![powered-by-badge.svg](media/powered-by-badge.svg)](#goosint-lists)
 
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
