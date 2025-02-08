@@ -1,17 +1,16 @@
- IDEES
-S'inspirer de https://github.com/sindresorhus/awesome?tab=readme-ov-file pour rediger la racine a partir de ces donnees de https://goosint.com/about
-Mettre logo de goosint avec lien du reot original ![Titre de l'image si elle ne s'affiche pas.](lienverslereport/base-octocat.svg) source https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
-Liste emoji à mettre dans about https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-
 ![logo-cut.jpg](media/logo-cut.jpg)
 
-
-## [↑](#table-of-contents) Goosint Repositories
-_Amazing lists about all kinds of cybersecurity topics :space_invader:_ 
+# Goosint Lists
+_Amazing lists about all kinds of cybersecurity topics :right_anger_bubble:_ 
 - [Goosint Cyber Toolkit](https://github.com/khalil-b1/goosint-cyber-toolkit) - A curated list of free Cyber & Threat intelligence web-based tools for cybersecurity professionnals.
-- 
+- [Titre section](#section)
 
-## Table of Contents
+Just type (link to update) to go here. Follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/).
+
+# [↑](#goosint-lists) About goosint
+
+
+
 - [Titre section](#section)
 donner les titres à chatgpt pour les tronsfrmer en format URI RFC 3986 [Titre](#format URI RF 3986 du titre)
 
