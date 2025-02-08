@@ -1,4 +1,4 @@
-[![logo-cut.jpg](media/logo-cut.jpg)](#goosint-lists)
+[![logo-cut.jpg](media/logo-cut.jpg)](#-goosint-lists)
 
 Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
