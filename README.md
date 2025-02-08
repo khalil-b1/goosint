@@ -40,7 +40,7 @@ You can add it to the top of your list, right next to the title. Badges are avai
 - X.com (Twitter): [Daily OSINT](https://x.com/DailyOsint/status/1747590109497803252), [Dark Web Intelligence](https://x.com/DailyDarkWeb/status/1750515946240844218), [0xtechrock](https://x.com/0xtechrock/status/1741032882058207739), [Dark Web Informer](https://x.com/DarkWebInformer/status/1778110804836884814?mx=2).
 
 ## [↑](#goosint-lists) License
-This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors (goosint contributors).
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors (e.g, credit: goosint.com).
 
 If you wish to find more deep and technical resources on cyber security, I invite you to visit this project [sindresorhus/awesome/security](https://github.com/sindresorhus/awesome/tree/main?tab=readme-ov-file#security).
 
