@@ -26,6 +26,9 @@ _Badges are available in both .svg and .png format._
 
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](https://github.com/khalil-b1/goosint/tree/main) & [![powered-by-badge.svg](media/powered-by-badge.svg)](https://github.com/khalil-b1/goosint/tree/main)
 
+Syntax (remove x): [x![Powered by Badge](https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)x](#)
+
+
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
 - Osintnewsletter.con – [With 130+ in the collection, you’re bound to find something useful](https://osintnewsletter.com/p/38).
