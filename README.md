@@ -20,11 +20,11 @@ If you want to add other tools or have any suggestions to improve this project, 
 PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
 
 ## [↑](#goosint-lists) Badges
-_You are allowed to use the badges on lists not included here and also on private lists. Badges are available in both .svg and .png format._ 
+_You are allowed to use the badges on lists not included here and also on private lists._ 
 
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#) & [![powered-by-badge.svg](media/powered-by-badge.svg)](#)
 
-You can add it to the top of your list, right next to the title.
+You can add it to the top of your list, right next to the title. Badges are available in both .svg and .png format.
 ```
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](https://goosint.com)
 [![powered-by-badge.svg](media/powered-by-badge.svg)]([#](https://goosint.com))
