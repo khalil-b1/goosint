@@ -22,8 +22,8 @@ If you want to add other tools or have any suggestions to improve this project, 
 PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
 
 ## [↑](#goosint-lists) Badges
-_Badges are available in both .svg and .png format._
-[![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#goosint-lists) and [![powered-by-badge.svg](media/powered-by-badge.svg)](#goosint-lists)
+_Badges are available in both .svg and .png format._ 
+[![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#goosint-lists) & [![powered-by-badge.svg](media/powered-by-badge.svg)](#goosint-lists)
 
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
