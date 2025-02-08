@@ -3,7 +3,7 @@
 Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
 # Goosint Lists
-_Amazing lists about all kinds of cybersecurity topics_ :right_anger_bubble:
+_Amazing lists about all kinds of cybersecurity resources and tools_ :right_anger_bubble:
 - [Goosint Cyber Toolkit](https://github.com/khalil-b1/goosint-cyber-toolkit) - A curated list of free web-based tools related to cybersecurity, threat intelligence, and digital investigations for all cybersecurity professionnals.
 - [Titre section](#section)
 - [Titre section](#section)
