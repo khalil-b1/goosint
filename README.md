@@ -21,9 +21,6 @@ If you want to add other tools or have any suggestions to improve this project, 
 
 PS. I still need to work on a proper contribution process in github. Please give me some time :).
 
-## [↑](#goosint-lists) License
-This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors (goosint contributors).
-
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
 - Osintnewsletter.con – [With 130+ in the collection, you’re bound to find something useful](https://osintnewsletter.com/p/38).
@@ -32,5 +29,10 @@ This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licens
 - France Verif – [Listed as reliable source specialized on OSINT and Cybersecurity tools](https://github.com/Jieyab89/OSINT-Cheat-sheet).
 - Virtualprivatelibrary.net – Listed in OSINT guide.
 - X.com (Twitter): [Daily OSINT](https://x.com/DailyOsint/status/1747590109497803252), [Dark Web Intelligence](https://x.com/DailyDarkWeb/status/1750515946240844218), [0xtechrock](https://x.com/0xtechrock/status/1741032882058207739), [Dark Web Informer](https://x.com/DarkWebInformer/status/1778110804836884814?mx=2).
+
+## [↑](#goosint-lists) License
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors (goosint contributors).
+
+If you wish to find more deep and technical resources on cyber security, I invite you to visit this project [sindresorhus/awesome/security](https://github.com/sindresorhus/awesome/tree/main?tab=readme-ov-file#security).
 
 Sincerely, [Khalil B.](https://www.linkedin.com/in/khalilb/)
