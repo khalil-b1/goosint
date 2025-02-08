@@ -1,4 +1,4 @@
-[![logo-cut.jpg](media/logo-cut.jpg)](https://github.com/khalil-b1/goosint/blob/main/media/powered-by-badge.png)](#goosint-lists)
+[![logo.jpg](media/logo.jpg)](#goosint-lists)
 
 Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
