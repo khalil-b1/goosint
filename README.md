@@ -19,7 +19,7 @@ The name Goosint comes from the combination of the word “Go” and “OSINT”
 ## [↑](#goosint-lists) Contributing
 If you want to add other tools or have any suggestions to improve this project, you can contact me [here](https://www.linkedin.com/in/khalilb/).
 
-PS. I still need to work on a proper contribution process in github. Please give me some time :).
+PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
 
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
 - Sector035.nl – [When it comes to open source data sources […], this website has got you covered!](https://sector035.nl/articles/2024-04)
