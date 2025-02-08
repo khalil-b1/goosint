@@ -24,9 +24,9 @@ PS. I still need to work on a proper contribution process in github. Please give
 ## [↑](#goosint-lists) Badges
 _Badges are available in both .svg and .png format._ 
 
-[![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](https://github.com/khalil-b1/goosint/tree/main) & [![powered-by-badge.svg](media/powered-by-badge.svg)](https://github.com/khalil-b1/goosint/tree/main)
+[![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#) & [![powered-by-badge.svg](media/powered-by-badge.svg)](#)
 
-Replace {} with []: {!{Powered by Badge}(https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)}(#)
+Replace {} with []: {!{Powered by Badge}(https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)}(https://github.com/khalil-b1/goosint/tree/main)
 
 
 ## [↑](#goosint-lists) They are recommending goosint. Thanks!
