@@ -1,4 +1,4 @@
-# [↑](#table-of-contents) Contributing
+# [↑](#table-of-contents) How you can contribute
 If you want to add other tools or have any suggestions to improve this project, you can contact me [here](https://www.linkedin.com/in/khalilb/).
 
 PS. I still need to work on a proper contribution process in github. Please give me some time :cowboy_hat_face:.
