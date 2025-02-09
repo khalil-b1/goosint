@@ -2,6 +2,10 @@
 
 Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
+_Thanks to the communities, business and individuals behind these amazingly free tools and resources_ 
+
+[![cybersecurity-projects.png](media/cybersecurity-projects.png)](#goosint-lists)
+
 # Goosint Lists
 _Amazing lists about all kinds of cybersecurity resources and tools_ :right_anger_bubble: 
 - [Goosint Cyber Toolkit](https://github.com/khalil-b1/goosint-cyber-toolkit) - A curated list of free web-based tools related to cybersecurity, threat intelligence, and digital investigations for all cybersecurity professionnals.
@@ -42,9 +46,6 @@ You can add it to the top of your list, right next to the title. Badges are avai
 - France Verif – [Listed as reliable source specialized on OSINT and Cybersecurity tools](https://github.com/Jieyab89/OSINT-Cheat-sheet).
 - Virtualprivatelibrary.net – Listed in OSINT guide.
 - X.com (Twitter): [Daily OSINT](https://x.com/DailyOsint/status/1747590109497803252), [Dark Web Intelligence](https://x.com/DailyDarkWeb/status/1750515946240844218), [0xtechrock](https://x.com/0xtechrock/status/1741032882058207739), [Dark Web Informer](https://x.com/DarkWebInformer/status/1778110804836884814?mx=2).
-
-_Thanks to the communities, business and individuals behind these amazingly free tools_ 
-[![cybersecurity-projects.png](media/cybersecurity-projects.png)](#goosint-lists)
 
 ## [↑](#goosint-lists) License
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). In other words, share generously but provide attribution to the authors (e.g, credit: goosint.com).
