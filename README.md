@@ -35,8 +35,8 @@ _You are allowed to use the badges on lists not included here and also on privat
 [![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](#) & [![powered-by-badge.svg](media/powered-by-badge.svg)](#)
 
 ```
-[![mentioned-in-badge.svg](media/mentioned-in-badge.svg)](https://goosint.com)
-[![powered-by-badge.svg](media/powered-by-badge.svg)]([#](https://goosint.com))
+[![Powered by Badge](https://github.com/khalil-b1/goosint/raw/main/media/powered-by-badge.png)](https://github.com/khalil-b1/goosint/tree/main)
+[![Mentioned in Badge](https://github.com/khalil-b1/goosint/raw/main/media/mentioned-in-badge.png)](https://github.com/khalil-b1/goosint/tree/main)
 ```
 You can add it to the top of your list, right next to the title. Badges are available in both .svg and .png format.
 
