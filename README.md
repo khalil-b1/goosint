@@ -7,6 +7,7 @@ _Amazing lists about all kinds of cybersecurity resources and tools_ :right_ange
 - [Goosint Cyber Toolkit](https://github.com/khalil-b1/goosint-cyber-toolkit) - A curated list of free web-based tools related to cybersecurity, threat intelligence, and digital investigations for all cybersecurity professionnals.
 - [Goosint Cyber News](https://github.com/khalil-b1/goosint-cyber-news)- A curated list of amazing resources providing cybersecurity news, blogs & articles, and research.
 - [Goosint Cybersecurity Learning](https://github.com/khalil-b1/goosint-cybersecurity-learning) - A curated list of amazing tools and resources related to cybersecurity learning and practicing platforms.
+- [Goosint Personal Security Checklist](https://github.com/khalil-b1/goosint-personal-security-checklist) - A curated list of personal (home, familly, etc.) cybersecurity best practices from national security agencies, cybersecurity instituions and more.
 - [France : Ma Sécurité & Cybersécurité](https://github.com/khalil-b1/goosint-france-ma-securite) - A curated list of useful links for reporting data-privacy, safety, security and cybersecurity issues in France.
 
 ## [↑](#goosint-lists) Credits
