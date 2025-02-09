@@ -2,7 +2,7 @@
 
 Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
-_Thanks to the communities, business and individuals behind these amazingly free tools and resources_ 
+_Thanks to the communities, businesses / peoples and individuals behind these amazingly free tools and resources_ 
 
 [![cybersecurity-projects.png](media/cybersecurity-projects.png)](#goosint-lists)
 
