@@ -14,7 +14,7 @@ _Amazing lists about all kinds of cybersecurity resources and tools_ :right_ange
 - [Goosint Personal Security Checklist](https://github.com/khalil-b1/goosint-personal-security-checklist) - A curated list of personal (home, familly, etc.) cybersecurity best practices from national security agencies, cybersecurity instituions and more.
 
 These may help you if you live in France:
-- [France : Ma Sécurité & Cybersécurité](https://github.com/khalil-b1/france-ma-securite) - A curated list of useful links for reporting data-privacy, safety, security and cybersecurity issues in France.
+- [France : Ma Sécurité & Cybersécurité](https://github.com/khalil-b1/ma-securite-en-france) - A curated list of useful links for reporting data-privacy, safety, security and cybersecurity issues in France.
 
 ## [↑](#goosint-lists) Credits
 Goosint is a personal project that started out in May 2023 as initially for sharing amazing, free, and ready-to-use [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) tools related to cybersecurity.
