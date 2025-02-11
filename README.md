@@ -1,5 +1,6 @@
 [![logo-cut.jpg](media/logo-cut.jpg)](#goosint-lists)
-[Dislaimer](https://github.com/khalil-b1/goosint/blob/main/disclaimer.md) | [All Goosint Lists]((#goosint-lists)) | [Follow-me](https://www.linkedin.com/in/khalilb/)
+
+<div align="center">[Disclaimer](https://github.com/khalil-b1/goosint/blob/main/disclaimer.md) | [All Goosint Lists]((#goosint-lists)) | [Follow-me](https://www.linkedin.com/in/khalilb/)</div>
 
 Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
