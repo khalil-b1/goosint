@@ -2,7 +2,7 @@
 
 [Disclaimer](https://github.com/khalil-b1/goosint/blob/main/disclaimer.md) | [All Goosint Lists](#goosint-lists) | [Follow-me](https://www.linkedin.com/in/khalilb/)
 
-Just type [goosint.com](https://goosint.com) (coming soon) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
+Just type [goosint.com](https://goosint.com) to go here. and follow me on [LinkedIn](https://www.linkedin.com/in/khalilb/) :cowboy_hat_face:.
 
 _Thanks to the communities, companies and individuals behind these amazingly free tools and resources_ 
 
